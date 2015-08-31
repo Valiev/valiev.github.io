@@ -21,10 +21,10 @@ shortcuts:
 
 #workdaily
 ```
-Which becames:
+Looks like this:
 ![Day One workdaily example]({{ site.url }}/images/2015/day_one_shorcuts_workdaily.png)
 
-- `tshoot` to troubleshooting guide
+- `tshoot` is used for troubleshooting
 
 ```
 ### Issue to troubleshoot
